@@ -15,7 +15,7 @@ How to use
 
 ReflectionRepresentation is a [planet](https://github.com/lingtalfi/Observer/blob/master/article/article.planetReference.eng.md).
 
-
+### Getting a string representation for a \Reflection parameter 
 
 ```php
 <?php
