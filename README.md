@@ -16,7 +16,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import ReflectionRepresentation
+uni import Ling/ReflectionRepresentation
 ```
 
 
@@ -32,7 +32,7 @@ ReflectionRepresentation is a [planet](https://github.com/lingtalfi/Observer/blo
 <?php
 
 
-use ReflectionRepresentation\ReflectionParameterUtil;
+use Ling\ReflectionRepresentation\ReflectionParameterUtil;
 
 
 require_once "bigbang.php";

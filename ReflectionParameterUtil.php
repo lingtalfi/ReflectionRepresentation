@@ -1,10 +1,10 @@
 <?php
 
 
-namespace ReflectionRepresentation;
+namespace Ling\ReflectionRepresentation;
 
-use VariableToString\Adaptor\PhpDocVariableToStringAdaptor;
-use VariableToString\VariableToStringUtil;
+use Ling\VariableToString\Adaptor\PhpDocVariableToStringAdaptor;
+use Ling\VariableToString\VariableToStringUtil;
 
 
 /**
